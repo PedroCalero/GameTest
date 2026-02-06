@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Character
+namespace Lero.Character
 {
     public class CharacterMovement : MonoBehaviour
     {
